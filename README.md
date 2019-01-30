@@ -1,4 +1,4 @@
-# EDX-HravardX
+# EDX-HarvardX
 
 Simple Repo for the EDX-HarvardX - PH125.9x data Science Capstone course  
 
